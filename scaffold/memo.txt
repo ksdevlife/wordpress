@@ -1,0 +1,4 @@
+
+	vscode plugin
+Search WordPress Docs
+WordPress VS Code Extension Pack
