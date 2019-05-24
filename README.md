@@ -1,5 +1,5 @@
 # wordpress
-* vscode plugins install
+* install vscode plugins
 * install php and composer
 * $ composer global require friendsofphp/php-cs-fixer
 * $ composer global require squizlabs/php_codesniffer
